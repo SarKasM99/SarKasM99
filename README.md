@@ -1,8 +1,11 @@
-Hi, I’m @SarKasM99 and I'm studying engineering at UCLouvain with computer science and mechanics as my options (INFO/MECA).
+<h1 align="center">Welcome to my github profile!</h1>
 
-I will be using this github to post my university and personal projects. Those projects can be used by anyone as long as my credits are mentionned.
+<h3 align="center">I'm a software engineering student at UCLouvain </h3>
 
-Feel free to contact me in case you have questions or requests! 
+* :mortar_board: Currently I'm finishing my master's thesis 
+* :thought_balloon: I'm interested in the field of VR/AR, as well as Software Engineering and Programming Systems 
+* 🗺️ Languages I speak: English, French and Russian
+
 
 
 <!---
